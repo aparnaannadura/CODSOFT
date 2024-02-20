@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">quizea</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="my_question1">Dennis Ritchie, an American computer scientist, created the C programming language.</string>
+    <string name="my_question2">C++ is an object-oriented language.</string>
+    <string name="my_question3">Java was founded by Sun Microsystems in 1992.</string>
+    <string name="my_question4">IoT stands for Internet of Toys.</string>
+    <string name="my_question5">Data structure has two types: linear and non-linear.</string>
+</resources>
