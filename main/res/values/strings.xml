@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quoteapp</string>
+    <string name="update">up</string>
+    <string name="my_quote1">"The only way to do great work is to love what you do." - Steve Jobs.</string>
+    <string name="my_quote2">"In the end, it's not the years in your life that count. It's the life in your years." - Abraham Lincoln.</string>
+    <string name="my_quote3">"The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt.</string>
+    <string name="my_quote4">"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill.</string>
+    <string name="my_quote5">"Believe you can and you're halfway there." - Theodore Roosevelt.</string>
+
+</resources>
+
+
+
+
